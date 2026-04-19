@@ -1,4 +1,4 @@
-# Predicting-Loan-Default-Loss-Loss-Given-Default-
+#Loss-Given-Default-
 
 Business Proposal: Predicting Loss Given Default (LGD)
 Business Context
